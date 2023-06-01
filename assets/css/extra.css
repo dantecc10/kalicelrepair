@@ -1,8 +1,11 @@
 .kalicel-principal {
-  background-color: #fc0000;
+  background-color: #fc0000 !important;
+  box-shadow: 0 0.5rem 1rem rgba(135,4,12,0.15) !important;
+  border-color: rgba(35,2,2,0.74) !important;
 }
 
 .kalicel-principal:hover {
-  background-color: #f60202;
+  background-color: #f60202 !important;
+  border-color: rgb(35,2,2) !important;
 }
 
