@@ -9,3 +9,43 @@
   border-color: rgb(35,2,2) !important;
 }
 
+.intro-text {
+  align-content: center !important;
+  align-items: center !important;
+  background-image: url('../../assets/img/pcb-blackwebp.webp?h=395dfd2a8cad493a9e15620880ace59b');
+  height: 100% !important;
+}
+
+/* Reglas generales */
+
+.bordeRojo {
+  -webkit-text-stroke: 2px #fe0000;
+}
+
+#títuloNavbar {
+  font-family: revert;
+  text-decoration: none;
+}
+
+.modal-content {
+  background-image: url("../img/pcb-blackwebp.webp");
+  color: white;
+}
+
+.modal-content .modal-body h2.text-uppercase {
+  /*margin-left: -426px;*/
+  /*font-size: 30px;*/
+  -webkit-text-stroke: 2.5px red;
+  font-family: revert;
+  text-decoration: none;
+}
+
+.intro-text {
+  font-size: xx-large;
+}
+
+.intro-text {
+  width: 100% !important;
+  height: 200% !important;
+}
+
