@@ -1,6 +1,7 @@
 // Ajax Request
 function search_displays(element) {
     var query = element.value;
+    const target = document.getElementById("dataTable-1");
     //var query = document.getElementsByName("capturaquery")[0].value;
     console.log("Se busca: '" + query + "'");
     if (query != "" || query != null) {
@@ -13,7 +14,7 @@ function search_displays(element) {
         xmlhttp.onreadystatechange = function () {
             if (this.readyState == 4 && this.status == 200) {
                 //element.querySelector("tbody").innerHTML = this.responseText;
-                element.innerHTML = this.responseText;
+                target.innerHTML = this.responseText;
             }
         };
         xmlhttp.open("POST", requesting_url, true);
@@ -23,6 +24,6 @@ function search_displays(element) {
     }
     else {
         //element.querySelector("tbody").innerHTML = "";
-        element.innerHTML = "";
+        target.innerHTML = "";
     }
 }
