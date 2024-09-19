@@ -4,9 +4,6 @@
         <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/contacts.html</loc>
     </url>
     <url>
-        <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/</loc>
-    </url>
-    <url>
         <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/login.html</loc>
     </url>
     <url>
@@ -26,5 +23,8 @@
     </url>
     <url>
         <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/testimonials.html</loc>
+    </url>
+    <url>
+        <loc>https://kalicel.castelancarpinteyro.com/</loc>
     </url>
 </urlset>
