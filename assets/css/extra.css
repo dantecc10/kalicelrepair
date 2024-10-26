@@ -49,3 +49,8 @@
   height: 200% !important;
 }
 
+.card.product-card {
+  background-color: #230202;
+  border-radius: 30px !important;
+}
+
