@@ -10,9 +10,6 @@
         <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/pricing.html</loc>
     </url>
     <url>
-        <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/products.html</loc>
-    </url>
-    <url>
         <loc>https://kalicel.castelancarpinteyro.com/Exportaciones/projects.html</loc>
     </url>
     <url>
@@ -28,6 +25,12 @@
         <loc>https://kalicel.castelancarpinteyro.com/</loc>
     </url>
     <url>
+        <loc>https://kalicel.castelancarpinteyro.com/products.html</loc>
+    </url>
+    <url>
         <loc>https://kalicel.castelancarpinteyro.com/sale-pieces.html</loc>
+    </url>
+    <url>
+        <loc>https://kalicel.castelancarpinteyro.com/service-policies.html</loc>
     </url>
 </urlset>
